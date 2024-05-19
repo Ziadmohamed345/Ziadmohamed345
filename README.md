@@ -9,7 +9,7 @@
 
 ###
 
-<![Ziadmohamed345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true)/>
+![Ziadmohamed345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true)
 
 ###
 
