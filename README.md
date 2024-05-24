@@ -4,7 +4,7 @@ I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
 
 ### GitHub Stats
 
-<div align="center">
+<div align="center" style="font-family: 'Urbanist', sans-serif;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ziadmohamed345&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ziadmohamed345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
@@ -18,7 +18,7 @@ I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
 
 ### Skills
 
-<div align="left">
+<div align="left" style="font-family: 'Urbanist', sans-serif;">
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="csharp logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
@@ -36,9 +36,15 @@ I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
 </div>
 
+### Startups
+
+- **Innova Designs**: Founder and CEO. Innova Designs offers printing and designing services.
+- **Arabni (or Urbani)**: Founder and Project Manager. Arabni is a Mobility-as-a-Service platform aimed at enhancing urban mobility.
+
+
 ### Connect with Me
 
-<div align="left">
+<div align="left" style="font-family: 'Urbanist', sans-serif;">
   <a href="https://www.linkedin.com/in/ziad-mohamed-50b53a213/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
