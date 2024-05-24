@@ -10,11 +10,11 @@
 ###
 
 <div align="center">
-  ![Ziadmohamed345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)
 </div>
 
 ###
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true">    <img  alt="Ziadmohamed345's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true" />  </a>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
