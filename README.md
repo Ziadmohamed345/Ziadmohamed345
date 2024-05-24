@@ -10,9 +10,7 @@ I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
 </div>
 
 <div align="center" style="font-family: sans-serif;">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true">
-    <img alt="Ziadmohamed345's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true" />
-  </a>
+![Ziadmohamed345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true)
 </div>
 
 
