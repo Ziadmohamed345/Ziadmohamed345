@@ -7,29 +7,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ziadmohamed345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true)](https://git.io/awesome-stats-card)
-</div>
-
-###
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true">    <img  alt="Ziadmohamed345's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true" />  </a>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="csharp logo"  />
-    <img width="12" />
+    <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-    <img width="12" />
+    <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
+    <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
+    <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="figma logo"  />
-  <img width="12" />
+    <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
+    <img width="10" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
+    <img width="10" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
 </div>
 
