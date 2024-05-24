@@ -1,6 +1,6 @@
 # Hi 👋, my name is Ziad Abdelaal from Egypt.
 
-I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
+## I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
 
 ### GitHub Stats
 
