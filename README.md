@@ -6,12 +6,11 @@ I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
 
 <div align="center" style="font-family: 'Urbanist', sans-serif;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ziadmohamed345&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ziadmohamed345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center" style="font-family: sans-serif;">
-![Ziadmohamed345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true)
-</div>
+
 
 
 ### Skills
