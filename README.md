@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ziad Abdelaal, an entrepenuer and software enthusaist from Egypt. 🚀🧑‍💻</h2>
+<h2 align="left">Hi 👋! My name is Ziad Abdelaal, a hybrid entrepenuer and software enthusaist from Egypt. 🚀🧑‍💻</h2>
 
 ###
 
