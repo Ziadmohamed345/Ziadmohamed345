@@ -7,10 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ziadmohamed345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-  </div align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true">    <img  alt="Ziadmohamed345's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true" />  </a>
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true">
+    <img  alt="Ziadmohamed345's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true" />
+  </a>
 </div>
-
 
 
   
