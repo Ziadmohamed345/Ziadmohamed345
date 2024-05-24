@@ -17,9 +17,9 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true">    <img  alt="Ziadmohamed345's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ziadmohamed345?cardType=github&theme=ocean-dark&showIcons=false&preferLogin=true" />  </a>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="csharp logo"  />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img width="12" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
