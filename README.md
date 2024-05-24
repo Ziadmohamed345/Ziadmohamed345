@@ -1,6 +1,6 @@
-# Hi, I'm Ziad 👋
+# Hi 👋, my name is Ziad Abdelaal from Egypt.
 
-I'm a senior computer science student passionate about software development and entrepreneurship.
+I'm a hybrid entrepreneur running 2 startups & software enthusisast. 🚀🧑‍💻
 
 ### GitHub Stats
 
