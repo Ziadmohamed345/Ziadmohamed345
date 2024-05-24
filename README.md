@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ziad Mohamed and I'm a Senior CS Student, from Egypt.</h2>
+<h2 align="left">Hi 👋! My name is Ziad Abdelaal, an entrepenuer and software enthusaist from Egypt. 🚀🧑‍💻</h2>
 
 ###
 
@@ -9,7 +9,9 @@
 
 ###
 
-![Ziadmohamed345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true)
+<div align="center">
+  ![Ziadmohamed345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ziadmohamed345&theme=dracula&hide_border=true)
+</div>
 
 ###
 
@@ -50,5 +52,3 @@
 </div>
 
 ###
-
-
