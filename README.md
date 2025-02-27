@@ -1,6 +1,6 @@
 # Hi 👋, my name is Ziad Abdelaal from Egypt.
 
-## I'm a hybrid entrepreneur & software enthusisast. 🚀🧑‍💻
+## Front-end Developer software enthusisast. 🚀🧑‍💻
 
 <div style="float:right;">
 
@@ -34,12 +34,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
 </div>
-
-### Startups
-
-- **Innova Designs**: Founder and CEO. Innova Designs offers printing and designing services.
-- **Arabni**: Founder and Project Manager. Arabni is a Mobility-as-a-Service platform that aims to enhancing urban mobility.
-
 
 ### Connect with Me
 
