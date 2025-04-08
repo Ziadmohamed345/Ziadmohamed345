@@ -18,15 +18,15 @@
 ### Skills
 
 <div align="left" style="font-family: 'Urbanist', sans-serif;">
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="csharp logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="figma logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
   <img width="10" />
