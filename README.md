@@ -33,13 +33,13 @@
 
 <div align="left" style="font-family: 'Urbanist', sans-serif;">
   <a href="https://www.linkedin.com/in/ziad-mohamed-50b53a213/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin height="35" alt="linkedin logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ziadmohamed345@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail height="35" alt="gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="mailto:z.abdelaal@nu.edu.eg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=outlook height="35" alt="microsoft-outlook logo" />
+    <img src="https://skillicons.dev/icons?i=outlook" />
   </a>
 </div>
 
