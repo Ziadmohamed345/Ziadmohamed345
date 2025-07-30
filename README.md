@@ -15,7 +15,9 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=.net" height="30" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=.Net" height="30" alt="css3 logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=c#" height="30" alt="css3 logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo" />
   <img width="10" />
