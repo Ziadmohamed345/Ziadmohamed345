@@ -21,8 +21,10 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="css3 logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="css3 logo" />
-  <img width="10" /`licons.dev/icons?i=sql" height="30" alt="adobeillustrator logo" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sql" height="30" alt="css3 logo" />
+  <img width="10" />
+ 
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
