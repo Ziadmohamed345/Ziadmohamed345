@@ -15,15 +15,17 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=.Net" height="30" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c#" height="30" alt="css3 logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="figma logo" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="css3 logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="css3 logo" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
   <img width="10" />
