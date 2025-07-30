@@ -38,8 +38,5 @@
   <a href="mailto:ziadmohamed345@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="mailto:z.abdelaal@nu.edu.eg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=outlook" />
-  </a>
 </div>
 
