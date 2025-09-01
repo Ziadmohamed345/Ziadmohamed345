@@ -1,6 +1,6 @@
-# Hello 👋, my name is Ziad Abdelaal from Egypt.
+# Hello 👋, my name is Ziad Mohamed from Egypt.
 
-## Full Stack Developer. 🚀🧑‍💻
+## I'm Passionate about Full Stack Development. 🚀🧑‍💻
 
 <div style="float:right;">
 
