@@ -1,42 +1,44 @@
-# Hello 👋, my name is Ziad Mohamed from Egypt.
+# Hi, I'm Ziad Mohamed 👋  
 
-## I'm Passionate about Full Stack Development. 🚀🧑‍💻
+💻 **Software Developer | Full Stack Enthusiast | Problem Solver**  
 
-<div style="float:right;">
+I’m a Computer Science graduate and currently enrolled in the **ITI Full Stack Development Program**, where I’m sharpening my skills in modern frontend and backend technologies. I enjoy building efficient, scalable, and user-friendly applications while constantly learning and growing as a developer.  
 
+---
 
+## 🚀 About Me  
+- 🌍 Based in Giza, Egypt  
+- 🎓 B.Sc. in Computer Science, Nile University (2020–2024)  
+- 🔭 Currently working on full stack web apps using **React, Angular, ASP.NET Core, and SQL Server**  
+- 🎯 Interested in **frontend excellence, scalable backend systems, and UI/UX design**  
+- 🏆 Toastmasters International – **Best Speaker Award (Table Topics)**  
+- ⚡ Fun fact: I love turning ideas into projects that people actually use!  
 
-### Skills
+---
 
-<div align="left" style="font-family: 'Urbanist', sans-serif;">
-  
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="js logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="figma logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="css3 logo" />
-  <img width="10" /> 
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo" />
-</div>
+## 🛠️ Tech Stack  
 
-### Connect with Me
+**Languages:** JavaScript, TypeScript, C#, Python (basics)  
+**Frontend:** React.js, Angular, HTML5, CSS3, Tailwind, Bootstrap, Responsive Design  
+**Backend:** ASP.NET Core, RESTful APIs, Entity Framework Core  
+**Databases:** SQL Server, MySQL  
+**Tools:** Git, GitHub, VS Code, Visual Studio, Postman, Swagger, Jira  
+**Design:** Figma, Wireframing, Prototyping, Adobe  
 
-<div align="left" style="font-family: 'Urbanist', sans-serif;">
-  <a href="https://www.linkedin.com/in/ziad-mohamed-50b53a213/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:ziadmohamed345@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</div>
+---
 
+## 📌 Featured Projects  
+- **[QureNet](https://qurenet.com/)** – Patient-centric healthcare platform built with ASP.NET Core and MSSQL  
+- **[Arabni App](https://www.figma.com/proto/IS5GgZmgNT7F0jTtaUWYJZ/Arabni-Screens?node-id=0-1453&t=YIXK0usThtofciI8-1)** – Mobility platform with Flutter, Firebase, and real-time maps integration  
+- **[RunGroop](https://rungroop.com/)** – Running community platform built with .NET Core MVC and SQL Server  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: [ziadmohamed345@gmail.com](mailto:ziadmohamed345@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ziaddmohamedd](https://linkedin.com/in/ziaddmohamedd)  
+- 🖥️ GitHub: [github.com/Ziadmohamed345](https://github.com/Ziadmohamed345)  
+
+---
+
+⭐️ *Always open to collaboration, learning, and new opportunities!*  
