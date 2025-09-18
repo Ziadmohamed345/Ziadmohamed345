@@ -11,8 +11,9 @@ I’m a Computer Science graduate and currently enrolled in the **ITI Full Stack
 - 🎓 B.Sc. in Computer Science, Nile University (2020–2024)  
 - 🔭 Currently working on full-stack web apps using **React, Angular, ASP.NET Core, and SQL Server**  
 - 🎯 Interested in **frontend excellence, scalable backend systems, and UI/UX design**  
-- 🏆 Toastmasters International – **Best Speaker Award (Table Topics)**  
-- ⚡ Fun fact: I love turning ideas into projects that people actually use!  
+- 🏆 Toastmasters International – **Best Speaker Award (Table Topics)**
+- 🏋️‍♂️ Passionate about **sports and fitness** (gym, rowing, and staying active)  
+
 
 ---
 
