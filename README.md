@@ -1,6 +1,6 @@
 # Hi, I'm Ziad Mohamed 👋  
 
-💻 **Software Developer | Full Stack Enthusiast | Problem Solver**  
+💻 **Software Developer | Full Stack Enthusiast | Toastmasters Public Speaker**  
 
 I’m a Computer Science graduate and currently enrolled in the **ITI Full Stack Development Program**, where I’m sharpening my skills in modern frontend and backend technologies. I enjoy building efficient, scalable, and user-friendly applications while constantly learning and growing as a developer.  
 
@@ -9,7 +9,7 @@ I’m a Computer Science graduate and currently enrolled in the **ITI Full Stack
 ## 🚀 About Me  
 - 🌍 Based in Giza, Egypt  
 - 🎓 B.Sc. in Computer Science, Nile University (2020–2024)  
-- 🔭 Currently working on full stack web apps using **React, Angular, ASP.NET Core, and SQL Server**  
+- 🔭 Currently working on full-stack web apps using **React, Angular, ASP.NET Core, and SQL Server**  
 - 🎯 Interested in **frontend excellence, scalable backend systems, and UI/UX design**  
 - 🏆 Toastmasters International – **Best Speaker Award (Table Topics)**  
 - ⚡ Fun fact: I love turning ideas into projects that people actually use!  
@@ -37,7 +37,7 @@ I’m a Computer Science graduate and currently enrolled in the **ITI Full Stack
 ## 📫 Connect With Me  
 - 📧 Email: [ziadmohamed345@gmail.com](mailto:ziadmohamed345@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ziaddmohamedd](https://linkedin.com/in/ziaddmohamedd)  
-- 🖥️ GitHub: [github.com/Ziadmohamed345](https://github.com/Ziadmohamed345)  
+- 🌐 My Website: [Click Here]([https://ziadmohamed.me](https://personal-website-alpha-navy.vercel.app/))  
 
 ---
 
