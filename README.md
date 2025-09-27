@@ -38,7 +38,7 @@ I’m a Computer Science graduate and currently enrolled in the **ITI Full Stack
 ## 📫 Connect With Me  
 - 📧 Email: [ziadmohamed345@gmail.com](mailto:ziadmohamed345@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ziaddmohamedd](https://linkedin.com/in/ziaddmohamedd)  
-- 🌐 My Website: [Click Here]([https://ziadmohamed.me](https://personal-website-alpha-navy.vercel.app/))  
+- 🌐 My Website: [Click Here](https://personal-website-alpha-navy.vercel.app/)
 
 ---
 
