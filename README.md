@@ -2,8 +2,7 @@
 
 💻 **Software Engineer | Full Stack Development | Toastmasters Public Speaker**  
 
-I’m a Computer Science graduate and currently enrolled in the **ITI Full Stack Development Program**, where I’m sharpening my skills in modern frontend and backend technologies. I enjoy building efficient, scalable, and user-friendly applications while constantly learning and growing as a developer.  
-
+Computer Science graduate and a Full Stack Developer at Gameball. I recently completed the ITI Full Stack Development Program, where I gained hands-on experience in building modern, scalable web applications. I’m passionate about creating clean, efficient, and user-centered solutions while continuously improving my technical and problem-solving skills.
 ---
 
 ## 🚀 About Me  
