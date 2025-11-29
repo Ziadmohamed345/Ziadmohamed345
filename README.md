@@ -10,11 +10,11 @@ I’ve always been curious about what happens behind the screen. That curiosity 
 
 * 🌍 Based in Giza, Egypt
 * 🎓 B.Sc. in IT and Computer Science, Nile University
-* 🔭 **Freelancer & Branding Specialist since 2020**, helping clients bring ideas to life through user-focused design and clean, efficient code
+* 🔭 **Freelancer & Branding Specialist since 2021**, helping clients bring ideas to life through user-focused design, clean code, and strategic branding
 * 🏆 Led **Arabni**, a Mobility-as-a-Service startup, Top 16 out of 300+ startups in Tatweer Misr Startup Olympics
 * 🏅 Interned at **Key2Soft**, worked on Qurennet project using ASP.NET Core, ABP.NET, SQL Server
 * 🎙 Toastmasters International – Best Table Topics Speaker
-* 🏋️‍♂️ Professional rower and fitness enthusiast, passionate about resilience, patience, and consistency
+* 🏋️‍♂️ Professional rower and fitness enthusiast
 
 ---
 
@@ -22,4 +22,6 @@ I’ve always been curious about what happens behind the screen. That curiosity 
 
 **Languages:** C#, JavaScript, TypeScript, Python (basics)
 **Frontend:** React.js, Angular, HTML5, CSS3, Tailwind, Bootstrap
-**Backend:** .NET & Next.js
+**Backend:** ASP.NET Core, RESTful APIs, ABP.NET, Entity Framework Core
+**Databases:** SQL Server, MySQL
+**Tools:** Git, GitHub,
